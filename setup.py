@@ -8,7 +8,7 @@ setuptools.setup(
     version="0.0.1",
     author="Alan Cheng",
     author_email="alancslhkse@gmail.com",
-    description="A Yahoo Finance stock wrapper for quotes and historical data",
+    description="A Yahoo Finance wrapper for stock quotes and historical data",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/alancslhk/ystockQuery",
