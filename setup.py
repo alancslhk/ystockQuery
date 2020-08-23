@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ystockQuery", # Replace with your own username
-    version="0.0.1",
+    version="0.1.0",
     author="Alan Cheng",
     author_email="alancslhkse@gmail.com",
     description="A Yahoo Finance wrapper for stock quotes and historical data",
